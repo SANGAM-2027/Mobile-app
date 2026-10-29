@@ -1,2 +1,2 @@
 # Mobile-app
-Cross-platform mobile application using Flutter
+Android/iOS app, match schedules, notifications, results and participant features.
